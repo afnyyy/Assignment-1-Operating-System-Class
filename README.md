@@ -1,8 +1,7 @@
-# Assignment-1-Operating-System-Class
+# Assignment-1-Operating-System-Class-114
 
-Afny
-1313618001
-Ilmu Komputer 2018
+- Afny
+= 1313618001
+- Ilmu Komputer 2018
 
-link [usertests]()
 
